@@ -1,0 +1,4 @@
+Scenario,BTC shock (%),ETH shock (%),Loss (USD),Loss (%),Remaining (USD)
+Scenario 1,-10,-15,1954.51,11.07,15698.57
+Scenario 2,-20,-30,3909.01,22.14,13744.06
+Scenario 3,-30,-40,5674.32,32.14,11978.76

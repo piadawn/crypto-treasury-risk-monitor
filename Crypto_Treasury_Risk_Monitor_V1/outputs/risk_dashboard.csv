@@ -1,0 +1,4 @@
+Indicator,Value (%),Review limit (%),Status
+Largest asset share,78.56487074451903,60,REVIEW
+One-day historical VaR (95%),4.097113836450078,5,Within limit
+Current drawdown,31.445087315295094,20,REVIEW

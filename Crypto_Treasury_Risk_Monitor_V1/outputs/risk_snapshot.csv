@@ -1,0 +1,6 @@
+Indicator,Value (%),Review limit (%),Status
+BTC share,78.56,60.0,REVIEW
+Historical one-day VaR 95%,4.1,5.0,Within limit
+Current drawdown,31.45,20.0,REVIEW
+Historical one-day ES 95%,5.68,,Informational
+Maximum drawdown,36.2,,Informational
